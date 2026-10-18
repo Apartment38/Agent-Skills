@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="Hermes_Agents_Ensemble.png"
+</p>
+
 # Agent Skills
 
 A curated collection of Hermes Agent skills, written by the Apartment38 team and Hermes agents. Each skill is a self-contained, documented procedure for a specific task type — loading the `hermes-agent` skill is always the first step when interacting with Hermes itself.
